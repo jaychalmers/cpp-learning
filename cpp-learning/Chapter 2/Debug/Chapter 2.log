@@ -1,2 +1,4 @@
-﻿  3.7.7.cpp
-  Chapter 2.vcxproj -> D:\THE VAULT\Programming\cpp-learning\cpp-learning\Debug\Chapter 2.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Chapter 2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  4.9.3.cpp
+D:\THE VAULT\Programming\cpp-learning\cpp-learning\Chapter 2\4.9.3.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Chapter 2.vcxproj -> D:\THE VAULT\Programming\cpp-learning\cpp-learning\Debug\Module 1.exe

@@ -6,7 +6,7 @@ using namespace std;
 
 int BinSearch(int data[], int numElements, int searchKey);
 
-int main()
+int main377()
 {
 	int values[] = { 1,4,5,6,9,14,21,23,28,31,35,42,46,50,53,57,62,63,65,74,79,89,95 };
 	int input = 0;
